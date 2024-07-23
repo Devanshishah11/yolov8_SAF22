@@ -1,0 +1,6 @@
+# custom_dataset.yaml
+train: C:/Users/ds678/OneDrive - University of Sussex/SAF_Project/Instance_seg_labels/output/images/train
+val: C:/Users/ds678/OneDrive - University of Sussex/SAF_Project/Instance_seg_labels/output/images/val
+
+nc: 4  # Number of classes
+names: ['ClassicalEvaporation', 'TransitionalMixing', 'DiffusiveMixing', 'Spray']
